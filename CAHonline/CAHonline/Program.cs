@@ -16,6 +16,7 @@ namespace CAHonline
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //yo, check this comment shit dog!
         }
     }
 }
