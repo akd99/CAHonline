@@ -1,0 +1,11 @@
+Possible Code Structure
+
+CAHonline
+-Properties
+-Refrences
+-classes
+--deck.cs *holds the white and black decks
+--player.cs *holds the players hand and points
+-cards
+--black.xml
+--white.xml
